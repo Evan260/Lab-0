@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab 0\\Lab 0.csproj": {}
+    "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab-0\\Lab 0\\Lab 0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab 0\\Lab 0.csproj": {
+    "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab-0\\Lab 0\\Lab 0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab 0\\Lab 0.csproj",
+        "projectUniqueName": "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab-0\\Lab 0\\Lab 0.csproj",
         "projectName": "Lab 0",
-        "projectPath": "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab 0\\Lab 0.csproj",
+        "projectPath": "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab-0\\Lab 0\\Lab 0.csproj",
         "packagesPath": "C:\\Users\\evand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab 0\\obj\\",
+        "outputPath": "C:\\Users\\evand\\Desktop\\School\\SAIT\\Term 2\\Object-Oriented Programming 2 CPRG-211-B\\Lab 0\\Lab-0\\Lab 0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
